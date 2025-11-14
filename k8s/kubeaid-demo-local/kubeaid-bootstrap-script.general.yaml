@@ -31,7 +31,7 @@ git:
   useSSHPrivateKeyAuth: false
 
   # Path to the SSH private key file on the host machine.
-  # privateKeyFilePath: '/home/akshay/.ssh/id_rsa'
+  # privateKeyFilePath: 'path/to/private/key'
 
 argocd:
   # Use SSH private key authentication to authenticate against the Git platform.
